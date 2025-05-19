@@ -20,6 +20,6 @@ streamlit run app.py
 │   └── functions.py      # User-defined helper functions
 └── README.txt            # Installation and usage instructions
 
-```bash
+```bash BEST CASE
 streamlit run carapp.py #contains bundled udf's and prompts with streamlit in a single py file
 ```
